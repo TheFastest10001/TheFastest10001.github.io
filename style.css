@@ -34,4 +34,8 @@ h4 {
 
 #getQuoteBtn {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(42, 132, 235);
+    border-radius: 0.5em;
 }
